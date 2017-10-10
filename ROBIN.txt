@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 HEJ HEJ /ROBINZZZZZZ
 
 i
 
 Medusa är bäst! Yolo
+=======
+Har ändrat allt här, ni skriver fult!
+>>>>>>> 8ad4b9a8b7217f2f7c72fccf5d8f6df118d6617b
